@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.012S.1x+1T2019/about
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid
 title: 'Part 1: Fundamentals of Materials Structure'

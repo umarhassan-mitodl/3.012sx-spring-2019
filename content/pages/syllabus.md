@@ -2,6 +2,8 @@
 content_type: page
 description: xxx
 draft: true
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Part 1: Fundamentals of Materials Structure [to be deleted]'
