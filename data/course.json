@@ -23,7 +23,8 @@
   },
   "course_title": "Structure of Materials",
   "hide_download": true,
-  "course_description": "Structure\u2014or the arrangement of materials\u2019 internal components\u2014determines virtually everything about a material: its properties, its potential applications, and its performance within those applications. This three-part course explores the structure of a wide variety of materials with current-day engineering applications. Taken together, the three modules provide similar content to MIT\u2019s sophomore-level materials structure curriculum.\n\nPart 1 of the course introduces amorphous materials and explores glasses and polymers, the factors that influence their structure, and how materials scientists measure and describe the structure of these materials. Then we discuss what it means for a material to be crystalline, how we describe periodic arrangement of atoms in a crystal, and how we can determine the structure of crystals through x-ray diffraction. Parts 2 and 3 explore the structure of materials in further depth.\n\nThis course was organized as a three-part series on [MITx](https://www.edx.org/school/mitx)\u00a0by MIT\u2019s Department of Materials Science and Engineering and is now archived on the [Open Learning Library](https://openlearning.mit.edu/), which is free to use. You have the option to sign up and enroll in each module if you want to track your progress, or you can view and use all the materials without enrolling.\n",
+  "mit_learn_topics": [],
+  "course_description": "Structure\u2014or the arrangement of materials\u2019 internal components\u2014determines virtually everything about a material: its properties, its potential applications, and its performance within those applications. This three-part course explores the structure of a wide variety of materials with current-day engineering applications. Taken together, the three modules provide similar content to MIT\u2019s sophomore-level materials structure curriculum.\n\nPart 1 of the course introduces amorphous materials and explores glasses and polymers, the factors that influence their structure, and how materials scientists measure and describe the structure of these materials. Then we discuss what it means for a material to be crystalline, how we describe periodic arrangement of atoms in a crystal, and how we can determine the structure of crystals through x-ray diffraction. Parts 2 and 3 explore the structure of materials in further depth.\n\nThis course was organized as a three-part series on {{% resource_link \"2562d78e-7b22-4351-b727-529cc5123fdf\" \"MITx\" %}}\u00a0by MIT\u2019s Department of Materials Science and Engineering and is now archived on the {{% resource_link \"b01f00a8-b8e0-4345-828a-4efccda43152\" \"Open Learning Library\" %}}, which is free to use. You have the option to sign up and enroll in each module if you want to track your progress, or you can view and use all the materials without enrolling.",
   "department_numbers": [
     "3"
   ],
@@ -33,7 +34,6 @@
     "content": "b037fac9-a82c-59cb-7ba4-bc2015981fc9",
     "website": "3-012sx-structure-of-materials-spring-2019"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Exams with Solutions"
