@@ -4,11 +4,10 @@ description: ''
 file: /courses/3-012sx-structure-of-materials-spring-2019/b037fac9a82c59cb7ba4bc2015981fc9_MIT3-012Sx-th.jpg
 file_size: 28794
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
-  caption: 'A bundle of glass (silica) optical fibers. (Courtesy [Michael Wyszomierski](https://www.flickr.com/photos/wysz/86759396)
-    on Flickr. License: CC BY-NC.)'
+  caption: 'A bundle of glass (silica) optical fibers. (Courtesy {{% resource_link
+    "26c62f96-b1a0-4435-ad66-7ff02be5bef8" "Michael Wyszomierski" %}} on Flickr. License:
+    CC BY-NC.)'
   credit: ''
   image-alt: A bundle of blue optical fibers illuminated against a pitch black background.
 learning_resource_types: []
